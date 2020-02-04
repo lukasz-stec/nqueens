@@ -19,3 +19,5 @@ Results calculated using `com.lstec.nqueens.NQueensSolverNoOfSolutions`.
 | 16 | 71486 | PT39.605S |
 | 17 | 235056 | PT3M38.926S |
 | 18 | 1001972 | PT20M15.63S |
+
+Requires Java 11.
