@@ -1,6 +1,7 @@
 
 A little bit of code that calculates all n-queens solutions with some twist.
 Non unique solution are also included.
+Works for n = 18 at most in reasonable time.
 
 Results calculated using `com.lstec.nqueens.NQueensSolverNoOfSolutions`.
 
