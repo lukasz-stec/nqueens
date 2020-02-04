@@ -1,4 +1,7 @@
 
+A little bit of code that calculates all n-queens solutions with some twist.
+Non unique solution are also included.
+
 Results calculated using `com.lstec.nqueens.NQueensSolverNoOfSolutions`.
 
 | N | solutions | time |
